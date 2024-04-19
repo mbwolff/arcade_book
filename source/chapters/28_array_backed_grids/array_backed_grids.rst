@@ -256,7 +256,7 @@ Place this code somewhere ahead of your main program loop.
 Resulting Program
 ^^^^^^^^^^^^^^^^^
 
-.. literalinclude:: array_backed_grid.py
+.. literalinclude:: array_backed_grid_HIDE.py
     :caption: array_backed_grid.py
     :language: python
     :linenos:
