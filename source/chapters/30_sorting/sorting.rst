@@ -87,7 +87,7 @@ Selection Sort
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pyO71AiAKz0" frameborder="0" allowfullscreen></iframe>
 
-The selection by looking at element 0. Then code next scans the rest of
+The selection begins by looking at element 0. The code next scans the rest of
 the list from element 1 to n-1 to find the smallest number. The smallest
 number is swapped into element 0. The code then moves on to element 1,
 then 2, and so forth. Graphically, the sort looks like Figure 18.4.
