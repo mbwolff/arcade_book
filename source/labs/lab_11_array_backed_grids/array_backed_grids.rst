@@ -8,9 +8,9 @@ Part 1
 
 Start with the program at the end of :ref:`array-backed-grids`.
 Modify it so that rather than just changing the block the user clicks on, also
-change the blocks of the squares next to the user's click. (5 pts) If the user clicks
+change the blocks of the squares next to the user's click. (20 pts) If the user clicks
 on an edge, make sure the program doesn't crash and still handles the click
-appropriately. (5 pts)
+appropriately. (20 pts)
 
 .. figure:: lab_11_sample.gif
 
@@ -24,7 +24,7 @@ at the end of :ref:`array-backed-grids`.
 
 Write a loop that will count all of the cells that are selected in the grid
 and print them out. Put this code at the end of your ``on_mouse_press`` function.
-(2 pts)
+(8 pts)
 
 .. code-block:: text
     :caption: Sample Output
@@ -42,7 +42,7 @@ and print them out. Put this code at the end of your ``on_mouse_press`` function
     Total of 9 cells are selected.
 
 Write another loop that will print how many cells are selected in each row:
-(3 pts)
+(12 pts)
 
 .. code-block:: text
     :caption: Sample Output
@@ -72,7 +72,7 @@ Write another loop that will print how many cells are selected in each row:
     Row 9 has 0 cells selected.
 
 Update the code so that it prints the count in both rows and columns:
-(1 pt)
+(4 pts)
 
 .. code-block:: text
     :caption: Sample Output
@@ -101,7 +101,7 @@ Update the code so that it prints the count in both rows and columns:
 
 Update the code so that the program will also print how many cells are
 continuously selected in a row, if that number is greater than 2.
-(4 pts)
+(16 pts)
 
 To do this, create a new variable (like ``continuous_count``) that is reset to
 zero for each row. If the current grid location is one, then add one to
