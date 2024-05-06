@@ -53,7 +53,7 @@ to specify this to the programmer up front.
 
 For example, a person might specify that a web program for recipes needs the
 ability to support ingredients and directions. A person familiar with
-recursion might state that each ingredient could itself be a recipes with
+recursion might state that each ingredient could itself be a recipe with
 other ingredients (that could be recipes.) The second system is considerably
 more powerful.
 
@@ -149,9 +149,7 @@ recursion. Some programmers feel that the recursive code is easier
 to understand.
 
 Calculating the factorial of a number is a classic example of using
-recursion. Factorials are useful in probability and statistics. For example:
-
-Recursively, this can be described as:
+recursion. Factorials are useful in probability and statistics.
 
 Below are two example functions that calculate . The first one is non-recursive, the second is recursive.
 
