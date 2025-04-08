@@ -74,6 +74,6 @@ years how to do these:
   `Animate your sprites <https://api.arcade.academy/en/latest/examples/sprite_move_animation.html>`_. example.
 
 
-.. _Move with Walls: https://api.arcade.academy/en/latest/examples/sprite_move_walls.html
-.. _Move with a Scrolling Screen: https://api.arcade.academy/en/latest/examples/sprite_move_scrolling.html
-.. _Move Between Different Rooms: https://api.arcade.academy/en/latest/examples/sprite_rooms.html
+.. _Move with Walls: https://api.arcade.academy/en/2.6.17/examples/sprite_move_walls.html
+.. _Move with a Scrolling Screen: https://api.arcade.academy/en/2.6.17/examples/sprite_move_scrolling.html
+.. _Move Between Different Rooms: https://api.arcade.academy/en/2.6.17/examples/sprite_rooms.html
