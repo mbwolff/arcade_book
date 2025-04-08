@@ -64,14 +64,14 @@ These aren't required for the lab, but I've had students ask in prior
 years how to do these:
 
 * This is a *great* project to use the
-  `Move Better <https://api.arcade.academy/en/latest/examples/sprite_move_keyboard_better.html>`_ example, as
+  `Move Better <https://api.arcade.academy/en/2.6.17/examples/sprite_move_keyboard_better.html>`_ example, as
   you'll find player movement is a lot more predictable.
 * If you are interested in having the player be able to face left or right,
   see the
-  `Sprite Face Left or Right <https://api.arcade.academy/en/latest/examples/sprite_face_left_or_right.html>`_
+  `Sprite Face Left or Right <https://api.arcade.academy/en/2.6.17/examples/sprite_face_left_or_right.html>`_
   example.
 * Want to animate walking? Look at the
-  `Animate your sprites <https://api.arcade.academy/en/latest/examples/sprite_move_animation.html>`_. example.
+  `Animate your sprites <https://api.arcade.academy/en/2.6.17/examples/sprite_move_animation.html>`_. example.
 
 
 .. _Move with Walls: https://api.arcade.academy/en/2.6.17/examples/sprite_move_walls.html
