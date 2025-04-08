@@ -353,8 +353,8 @@ Additional Examples
 
 Another example is to just keep the user in a "box" and allow her to move inside that box without scrolling.
 
-* https://api.arcade.academy/en/latest/examples/sprite_move_scrolling_box.html
+* https://api.arcade.academy/en/2.6.17/examples/sprite_move_scrolling_box.html
 
 Instead of scrolling, you can also move between rooms:
 
-* https://api.arcade.academy/en/latest/examples/sprite_rooms.html
+* https://api.arcade.academy/en/2.6.17/examples/sprite_rooms.html
