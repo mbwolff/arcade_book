@@ -78,7 +78,7 @@ and moved around; and yet another layer for initial placement of monsters.
 Maps like these can be loaded in a Python program, which is
 shown in more detail with the Python Arcade Library documentation.
 
-* https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html#step-8-use-a-map-editor
+* https://api.arcade.academy/en/2.6.17/examples/platform_tutorial/index.html#step-8-use-a-map-editor
 
 Application
 -----------
