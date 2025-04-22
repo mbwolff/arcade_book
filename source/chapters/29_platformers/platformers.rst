@@ -109,7 +109,7 @@ Loading the Tiled Map
 
 To get your map up and working, start with this code that supports
 moving around a scrolling window:
-https://api.arcade.academy/en/latest/examples/sprite_move_scrolling.html
+https://api.arcade.academy/en/2.6.17/examples/sprite_move_scrolling.html
 
 Remove the code in ``setup`` that places the blocks, and replace it with
 this code to load our map instead:
@@ -178,6 +178,6 @@ A full listing:
 Additional Information
 ----------------------
 
-* See the `Simple Platformer Tutorial <https://api.arcade.academy/en/latest/examples/platform_tutorial/index.html>`_.
-* For more advanced usage, see `Platformer with Physics <https://api.arcade.academy/en/latest/tutorials/pymunk_platformer/index.html>`_.
+* See the `Simple Platformer Tutorial <https://api.arcade.academy/en/2.6.17/examples/platform_tutorial/index.html>`_.
+* For more advanced usage, see `Platformer with Physics <https://api.arcade.academy/en/2.6.17/tutorials/pymunk_platformer/index.html>`_.
 
